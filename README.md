@@ -12,8 +12,8 @@ To analyze the sentiment databases and make a comparison between the results, we
 
 ## How to Run
 
-Download ['preprocessed_data'](https://mega.nz/file/PsVnmLBb#SH1pRtJP6lTWe_dnNoVAlbXbIi-6mKo2Ic7lVRXZoSM) and paste them to the main folder *.ipynb files. 
+Pre-process data: run /Preprocess/preprocess.py to create the 'preprocessed_data' for LSTM and Bi-LSTM. Then, we move 'preprocessed_data' to '/GoogleColab/RNN' folder.
 
-Because those files were executed on Google Colab, we should copy those files and paste them to the 'My Drive' folder of Google Drive.
-* Run the file LSTM_BiLSTM.ipynb to use LSTM and Bi-LSTM for sentiment analysis on the Stanford and UCI sentiment databases.
-* Run the file BERT.ipynb to use BERT for sentiment analysis on the Stanford and UCI sentiment databases.
+Because those files were executed on Google Colab, we should copy those files and paste them to the 'My Drive' folder of Google Drive:
+* Copy files in '/GoogleColab/RNN' and paste them to the 'My Drive' folder of Google Drive for sentiment analysis on the Stanford and UCI sentiment databases.
+* Copy files in '/GoogleColab/bert_classify' and paste them to the 'My Drive' folder of Google Drive for sentiment analysis on the Stanford and UCI sentiment databases.

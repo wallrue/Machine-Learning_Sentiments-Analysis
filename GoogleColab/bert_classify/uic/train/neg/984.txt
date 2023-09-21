@@ -1,0 +1,1 @@
+"apter does not provide enough charging current."

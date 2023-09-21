@@ -1,0 +1,1 @@
+" i take a picture, the battery drops a bar, and starts beeping, letting me know its dieing."

@@ -1,0 +1,1 @@
+"ring several different 2 minute calls, i experienced 5 drops and it was in an area that had 5 bars."
