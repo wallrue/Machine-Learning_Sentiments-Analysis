@@ -1,4 +1,4 @@
-# NTUST_Machine-Learning_Final-project: Sentiments Analysis
+# Sentiments Analysis
 
 ## Introduction
 
@@ -38,9 +38,38 @@ Because those files were executed on Google Colab, we should upload those files 
 
 ## Result of training
 
-|  | DATASET OF uci | DATASET OF ailImdb |
-| :---: | :---: | :---: |
-|  | Train_acc | Test_acc | Train_acc | Test_acc |
-| LSTM | 0.974 | 0.80 | 0.9754 | 0.769 |
-| Bi-LSTM | 0.979 | 0.79 | 0.968 | 0.772 |
-| BERT | 0.9921 | 0.8933 | 0.997 | 0.8526 |
+<table>
+  <tr>
+	<td > </td>
+    <td colspan="2">DATASET OF uci</td>
+    <td colspan="2">DATASET OF ailImdb</td>
+  </tr>
+  <tr>
+	<td > </td>
+	<td >Train_acc</td>
+	<td >Test_acc</td>
+	<td >Train_acc</td>
+	<td >Test_acc</td>
+  </tr>
+  <tr>
+	<td >LSTM</td>
+	<td >0.974</td>
+	<td >0.80</td>
+	<td >0.9754</td>
+	<td >0.769</td>
+  </tr> 
+  <tr>
+	<td >Bi-LSTM</td>
+	<td >0.979</td>
+	<td >0.79</td>
+	<td >0.968</td>
+	<td >0.772</td>
+  </tr>
+  <tr>
+	<td >BERT</td>
+	<td >0.9921</td>
+	<td >0.8933</td>
+	<td >0.997</td>
+	<td >0.8526</td>
+  </tr>
+</table>
